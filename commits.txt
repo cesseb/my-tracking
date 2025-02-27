@@ -1,0 +1,31 @@
+Palabras clave comunes para commits en Git:
+
+1. feat (feature): Nueva característica o funcionalidad.
+   Ejemplo: feat: agregar formulario de contacto
+
+2. fix (bug fix): Corregir errores en el código.
+   Ejemplo: fix: corregir error en validación de formulario
+
+3. docs: Cambios en la documentación del proyecto.
+   Ejemplo: docs: actualizar README con instrucciones de instalación
+
+4. style: Cambios que no afectan el funcionamiento del código (formato, espaciado, etc.).
+   Ejemplo: style: corregir sangrías en archivo de configuración
+
+5. refactor: Refactorización del código sin cambiar su comportamiento.
+   Ejemplo: refactor: reorganizar lógica en función de cálculo
+
+6. perf (performance): Mejoras en el rendimiento del código.
+   Ejemplo: perf: optimizar consulta de base de datos
+
+7. test: Agregar o modificar pruebas (unitarias, de integración, etc.).
+   Ejemplo: test: agregar prueba para función de login
+
+8. chore: Tareas de mantenimiento sin impacto directo en la funcionalidad.
+   Ejemplo: chore: actualizar dependencias
+
+9. ci (Continuous Integration): Cambios relacionados con la integración continua.
+   Ejemplo: ci: configurar pipeline de CI para pruebas automatizadas
+
+10. build: Cambios en el sistema de construcción o empaquetado del proyecto.
+    Ejemplo: build: actualizar configuración de Webpack

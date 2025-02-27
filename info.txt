@@ -1,0 +1,2 @@
+ #echo -ne "\e[1;33m★ Welcome to the terminal of ${USER^^} 🚀 ★\e[0m"
+ 37     echo -ne "\e[1;33m★ Hello I am Cesar Sebastian 🚀 ★\e[0m"
